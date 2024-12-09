@@ -4,7 +4,7 @@
 ## To compile code
 All code must be compiled before you can run it.  To compile means that you are converting your C++ code into a language that the computer can understand (e.g., binary).  To compile C++ code, run the following command in a terminal:
 ```
-g++ fileName.cpp -o outFileName
+g++ fileName.cpp -o outFileName.
 ```
 This tells the C++ compiler to compile your file named `fileName.cpp`, and output it (`-o`) as a file named `outFileName`.
 
